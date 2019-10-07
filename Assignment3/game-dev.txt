@@ -1,0 +1,6 @@
+{"Id":"db58f2d3-abc8-41ed-9971-5cb05c57727a","Name":"1.","Score":669,"Level":3,"IsBanned":false,"CreationTime":"2019-10-04T13:00:11.8535076+03:00"}
+{"Id":"e284d1b0-c462-43aa-a1a9-f90cd81ac46b","Name":"Moro","Score":965116,"Level":33,"IsBanned":false,"CreationTime":"2019-10-04T13:00:24.1038297+03:00"}
+{"Id":"bf644e63-ee4e-4241-b95e-c10a3c3ac491","Name":"Ukkeli","Score":407830,"Level":71,"IsBanned":false,"CreationTime":"2019-10-04T14:03:36.0624943+03:00"}
+{"Id":"f053e087-82ed-4151-890a-91002cb101c6","Name":"Mies","Score":697375,"Level":81,"IsBanned":false,"CreationTime":"2019-10-04T14:03:48.5642193+03:00"}
+{"Id":"5bf17586-a51d-42d3-9a3b-bd6e700a0a24","Name":"Marja","Score":836481,"Level":75,"IsBanned":false,"CreationTime":"2019-10-04T14:04:01.0272975+03:00"}
+{"Id":"e345a67e-cc4c-4e29-b286-22eb1550ef1b","Name":"Bitch is back","Score":553665,"Level":24,"IsBanned":false,"CreationTime":"2019-10-04T14:05:25.02083+03:00"}
