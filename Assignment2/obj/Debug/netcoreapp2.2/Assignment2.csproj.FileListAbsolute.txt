@@ -1,0 +1,10 @@
+C:\Users\Nike\Desktop\Assignment2\bin\Debug\netcoreapp2.2\Assignment2.deps.json
+C:\Users\Nike\Desktop\Assignment2\bin\Debug\netcoreapp2.2\Assignment2.runtimeconfig.json
+C:\Users\Nike\Desktop\Assignment2\bin\Debug\netcoreapp2.2\Assignment2.runtimeconfig.dev.json
+C:\Users\Nike\Desktop\Assignment2\bin\Debug\netcoreapp2.2\Assignment2.dll
+C:\Users\Nike\Desktop\Assignment2\bin\Debug\netcoreapp2.2\Assignment2.pdb
+C:\Users\Nike\Desktop\Assignment2\obj\Debug\netcoreapp2.2\Assignment2.csprojAssemblyReference.cache
+C:\Users\Nike\Desktop\Assignment2\obj\Debug\netcoreapp2.2\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Nike\Desktop\Assignment2\obj\Debug\netcoreapp2.2\Assignment2.AssemblyInfo.cs
+C:\Users\Nike\Desktop\Assignment2\obj\Debug\netcoreapp2.2\Assignment2.dll
+C:\Users\Nike\Desktop\Assignment2\obj\Debug\netcoreapp2.2\Assignment2.pdb
