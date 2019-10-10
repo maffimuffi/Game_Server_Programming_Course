@@ -1,0 +1,44 @@
+C:\Users\Nike\Desktop\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.deps.json
+C:\Users\Nike\Desktop\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.runtimeconfig.json
+C:\Users\Nike\Desktop\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.runtimeconfig.dev.json
+c:\Users\Nike\Desktop\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.dll
+c:\Users\Nike\Desktop\Assignment3\bin\Debug\netcoreapp2.2\Assignment3.pdb
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.csprojAssemblyReference.cache
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.csproj.CoreCompileInputs.cache
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.RazorAssemblyInfo.cache
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.RazorAssemblyInfo.cs
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.AssemblyInfoInputs.cache
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.AssemblyInfo.cs
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.RazorTargetAssemblyInfo.cache
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.dll
+c:\Users\Nike\Desktop\Assignment3\obj\Debug\netcoreapp2.2\Assignment3.pdb
+D:\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.deps.json
+D:\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.runtimeconfig.json
+D:\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.runtimeconfig.dev.json
+D:\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.dll
+D:\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.pdb
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.csprojAssemblyReference.cache
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.csproj.CoreCompileInputs.cache
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.RazorAssemblyInfo.cache
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.RazorAssemblyInfo.cs
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.AssemblyInfoInputs.cache
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.AssemblyInfo.cs
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.RazorTargetAssemblyInfo.cache
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.dll
+D:\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.pdb
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.deps.json
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.runtimeconfig.json
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.runtimeconfig.dev.json
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.dll
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\bin\Debug\netcoreapp2.2\Assignment3.pdb
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.csprojAssemblyReference.cache
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.RazorAssemblyInfo.cache
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.RazorAssemblyInfo.cs
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.AssemblyInfoInputs.cache
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.AssemblyInfo.cs
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.RazorTargetAssemblyInfo.cache
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.dll
+F:\Joonatan Ritalahti\Tiedostot\c# koodia\Assignment4\obj\Debug\netcoreapp2.2\Assignment3.pdb

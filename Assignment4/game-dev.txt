@@ -1,0 +1,12 @@
+{"Id":"db58f2d3-abc8-41ed-9971-5cb05c57727a","Name":"1.","Score":669,"Level":3,"IsBanned":false,"CreationTime":"2019-10-04T13:00:11.8535076+03:00"}
+{"Id":"e284d1b0-c462-43aa-a1a9-f90cd81ac46b","Name":"Moro","Score":965116,"Level":33,"IsBanned":false,"CreationTime":"2019-10-04T13:00:24.1038297+03:00"}
+{"Id":"bf644e63-ee4e-4241-b95e-c10a3c3ac491","Name":"Ukkeli","Score":407830,"Level":71,"IsBanned":false,"CreationTime":"2019-10-04T14:03:36.0624943+03:00"}
+{"Id":"f053e087-82ed-4151-890a-91002cb101c6","Name":"Mies","Score":697375,"Level":81,"IsBanned":false,"CreationTime":"2019-10-04T14:03:48.5642193+03:00"}
+{"Id":"5bf17586-a51d-42d3-9a3b-bd6e700a0a24","Name":"Marja","Score":836481,"Level":75,"IsBanned":false,"CreationTime":"2019-10-04T14:04:01.0272975+03:00"}
+{"Id":"e345a67e-cc4c-4e29-b286-22eb1550ef1b","Name":"B*tch is back","Score":553665,"Level":24,"IsBanned":false,"CreationTime":"2019-10-04T14:05:25.02083+03:00"}
+{"Id":"200d66ae-abd0-4413-a924-3a704b3dc6ea","Level":13,"CreationDate":"2040-03-30T23:22:44.4706417+03:00","Itemtype":1}
+{"Id":"fcb96b06-7f95-4009-984b-b950de3a1f0a","Level":2,"CreationDate":"2028-12-14T00:18:58.662689+02:00","Itemtype":2}
+{"Id":"455ab835-4432-4864-8811-0cfe059b6d47","Level":1,"CreationDate":"2033-06-21T00:19:03.7468079+03:00","Itemtype":1}
+{"Id":"a09b053e-d0a4-481e-8a23-d08ac7ee097e","Level":61,"CreationDate":"2022-06-25T00:56:37.3734411+03:00","Itemtype":2}
+{"Id":"a5c53cc0-bccf-4275-9602-30146ad2c6de","Level":22,"CreationDate":"2027-07-21T00:57:11.7620214+03:00","Itemtype":0}
+{"Id":"fc5ab409-0b47-49b3-9af5-ea005b2ad178","Level":76,"CreationDate":"2020-04-27T00:57:14.9848258+03:00","Itemtype":2}
